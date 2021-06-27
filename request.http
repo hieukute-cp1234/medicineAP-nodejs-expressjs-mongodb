@@ -1,0 +1,8 @@
+POST http://localhost:8000/api/elements
+Content-Type: application/json
+
+{
+  "name": "cardilopin",
+  "amount": "7",
+  "status": "1",
+}
